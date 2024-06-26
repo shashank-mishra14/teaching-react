@@ -5,4 +5,7 @@ import Stats from "./Stats";
 import Business from "./Business";
 import Button from "./Button";
 import Billing from "./Billing";
-export { Navbar, Hero, GetStarted, Stats, Business, Button, Billing };
+import CardDeal from "./CardDeal";
+import Testimonials from "./Testimonials";
+import FeedbackCard from "./FeedbackCard";
+export { Navbar, Hero, GetStarted, Stats, Business, Button, Billing, CardDeal, Testimonials, FeedbackCard };
