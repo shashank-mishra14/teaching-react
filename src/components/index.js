@@ -9,4 +9,6 @@ import CardDeal from "./CardDeal";
 import Testimonials from "./Testimonials";
 import FeedbackCard from "./FeedbackCard";
 import Clients from "./Clients";
-export { Navbar, Hero, GetStarted, Stats, Business, Button, Billing, CardDeal, Testimonials, FeedbackCard, Clients };
+import CTA from "./CTA";
+import Footer from "./Footer";
+export { Navbar, Hero, GetStarted, Stats, Business, Button, Footer, Billing, CardDeal, Testimonials, FeedbackCard, Clients, CTA};
