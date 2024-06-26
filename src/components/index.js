@@ -8,4 +8,5 @@ import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Testimonials from "./Testimonials";
 import FeedbackCard from "./FeedbackCard";
-export { Navbar, Hero, GetStarted, Stats, Business, Button, Billing, CardDeal, Testimonials, FeedbackCard };
+import Clients from "./Clients";
+export { Navbar, Hero, GetStarted, Stats, Business, Button, Billing, CardDeal, Testimonials, FeedbackCard, Clients };

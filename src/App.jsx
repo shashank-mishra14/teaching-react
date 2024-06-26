@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./style";
-import { Navbar, Hero, Business, Stats, Billing, CardDeal, Testimonials } from "./components";
+import { Navbar, Hero, Business, Stats, Billing, CardDeal, Testimonials, Clients } from "./components";
 const App = () => {
   return (
     <div className="bg-primary w-full overflow-hidden">
@@ -23,6 +23,7 @@ const App = () => {
           <Billing />
           <CardDeal />
           <Testimonials />
+          <Clients/>
         </div>
       </div>
     </div>
